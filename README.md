@@ -75,13 +75,19 @@ These trends offer clean view into where the EV market is heading and can direct
 
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Graphical interface overview:</h2>
 
 <p align="center">
-Launch the utility: <br/>
- <img src="https://imgur.com/a/l1Y1ja0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EV Population Dataset <br/>
+ <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.33.52.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<h2>Graphical interface overview:</h2>
+
+<p align="center">
+EV Population Dataset <br/>
+ <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.33.52.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 
 <!--
  ```diff
