@@ -82,11 +82,11 @@ EV Population Dataset <br/>
  <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.33.52.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-<h2>Graphical interface overview:</h2>
+
 
 <p align="center">
-EV Population Dataset <br/>
- <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.33.52.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+EV Population by state, model year, maker <br/>
+ <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.32.29.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 <!--
