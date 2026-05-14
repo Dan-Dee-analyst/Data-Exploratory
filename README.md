@@ -68,12 +68,11 @@ These trends offer clean view into where the EV market is heading and can direct
 <h2>Languages and Utilities Used</h2>
 
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Python</b> 
+- <b>SQL</b>
+- <b>Excel</b>
+- <b>Tableau</b> 
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
 
 <h2>Graphical interface overview:</h2>
 
@@ -85,9 +84,16 @@ EV Population Dataset <br/>
 
 
 <p align="center">
-EV Population by state, model year, maker <br/>
+EV Population by state, type,  model year, maker <br/>
  <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.32.29.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+<p align="center">
+EV Population by Electric Range, Base MSRP, CAFV Eligibility <br/>
+ <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.35.54.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
 
 <!--
  ```diff
