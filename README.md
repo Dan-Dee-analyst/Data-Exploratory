@@ -92,15 +92,3 @@ EV Population by state, type,  model year, maker <br/>
 EV Population by Electric Range, Base MSRP, CAFV Eligibility <br/>
  <img src="https://github.com/Dan-Dee-analyst/Data-Exploratory/blob/main/Screenshot%202026-05-14%20at%2023.35.54.png?raw=true"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
